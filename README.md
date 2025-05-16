@@ -1,107 +1,11 @@
-# 16.05.25<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aula de Projetos Autorais</title>
-    <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-    <header>
-        <h1>Projetos Autorais - Aula de Criação de Sites</h1>
-        <nav>
-            <ul>
-                <li><a href="#introducao">Introdução</a></li>
-                <li><a href="#estrutura">Estrutura do Código</a></li>
-                <li><a href="#estilo">Estilo com CSS</a></li>
-            </ul>
-        </nav>
-    </header>
+ Resumo da aula 1 e 2 do alura
 
-    <main>
-        <section id="introducao">
-            <h2>Introdução</h2>
-            <p>Nesta aula, aprendemos a criar projetos autorais, entendendo a importância de uma estrutura organizada de HTML e CSS para desenvolver sites originais e bem planejados.</p>
-        </section>
-
-        <section id="estrutura">
-            <h2>Estrutura de um Código HTML</h2>
-            <p>O HTML deve ser organizado com tags semânticas, como &lt;header&gt;, &lt;main&gt;, &lt;section&gt;, &lt;footer&gt;, além de usar títulos, parágrafos, listas e links para estruturar o conteúdo de forma clara.</p>
-        </section>
-
-        <section id="estilo">
-            <h2>Estilo com CSS</h2>
-            <p>O CSS é utilizado para personalizar cores, fontes, espaçamentos e layout do site. É importante criar variáveis de cores e fontes para manter a consistência visual e dar personalidade ao projeto.</p>
-        </section>
-    </main>
-
-    <footer>
-        <p>Projeto criado para a aula de projetos autorais. Desenvolvido por [Seu Nome].</p>
-    </footer>
-</body>
-</html>
-Arquivo: style.css
-
-/* Variáveis de cores e fontes */
-:root {
-    --primary-color: #4CAF50;
-    --secondary-color: #8BC34A;
-    --text-color: #333;
-    --background-color: #f4f4f4;
-    --font-body: 'Arial', sans-serif;
-    --font-title: 'Georgia', serif;
-}
-
-/* Reset básico */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: var(--font-body);
-}
-
-/* Estilo do corpo da página */
-body {
-    background-color: var(--background-color);
-    color: var(--text-color);
-    line-height: 1.6;
-    padding: 20px;
-}
-
-/* Cabeçalho */
-header {
-    background-color: var(--primary-color);
-    padding: 20px;
-    color: white;
-    text-align: center;
-}
-
-header h1 {
-    font-family: var(--font-title);
-    margin-bottom: 10px;
-}
-
-nav ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-nav a:hover {
-    text-decoration: underline;
-}
-
-/* Main content */
-main {
-    margin-top: 20px;
-}
-
-section {
-    background
+Nesta jornada, vamos aprender como se destacar no Agrinho, que é um projeto muito importante para alcançar o sucesso. A ideia é entender as melhores formas de se destacar, seja com ideias criativas, dedicação ou apresentando um trabalho bem feito. Assim, você poderá aproveitar ao máximo essa experiência e conquistar ótimos resultados no seu projeto. Estou aqui para te ajudar em cada passo do caminho!
+Para resumir, nesta fase, o foco é pensar na originalidade do seu projeto. Você pode partir de algo que já existe e melhorar, ou criar algo totalmente novo, sempre buscando identificar oportunidades de melhoria no seu dia a dia, na escola ou na comunidade. Use sua criatividade para expressar essas melhorias usando HTML e CSS, adicionando textos, imagens, vídeos ou áudios que tenham a sua personalidade, sempre lembrando de citar as fontes e evitar plágio. Você também pode criar suas próprias imagens ou usar inteligência artificial, sempre com transparência.
+Na próxima etapa, vamos planejar tudo isso com cuidado, pensando na história que queremos contar e nos recursos que vamos usar
+Aula 2
+Na última aula, aprendemos como gerar ideias originais e criar projetos autênticos. Agora, vamos entender como transformar essas ideias em código de forma organizada e eficiente.
+Primeiro, a estrutura do site deve seguir uma hierarquia clara de títulos, usando tags específicas para organizar o conteúdo, como títulos principais, subtítulos e parágrafos. As seções do site devem estar bem definidas, usando tags como section, para facilitar a compreensão e a navegação.
+A navegação deve ser intuitiva, com menus que levam às diferentes partes do site, usando links internos. Cada parte do conteúdo, como problemas, consequências e conclusão, deve estar organizada dentro de uma tag main, com o uso de subseções e listas para facilitar a leitura.
+Para deixar o site mais atrativo e original, é importante personalizar o estilo usando CSS. Isso inclui definir cores, fontes, espaçamentos e outros detalhes visuais, criando uma paleta própria por meio de variáveis de estilo. Além disso, é fundamental criar estilos próprios, usando classes específicas, para dar personalidade ao projeto.
+Ao criar o código, é importante manter a organização, usando boas práticas como separar o conteúdo em seções e usar classes para aplicar estilos de forma consistente. Assim, o site fica bem estruturado, visualmente atraente e origi
